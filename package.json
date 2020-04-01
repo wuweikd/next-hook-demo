@@ -1,0 +1,30 @@
+{
+  "name": "next-hook-demo",
+  "version": "1.0.0",
+  "description": "just a personal demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuweikd/next-hook-demo.git"
+  },
+  "keywords": [
+    "next",
+    "hook"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuweikd/next-hook-demo/issues"
+  },
+  "homepage": "https://github.com/wuweikd/next-hook-demo#readme",
+  "dependencies": {
+    "next": "^9.3.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

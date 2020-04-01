@@ -1,0 +1,6 @@
+.next
+.bundles
+node_modules
+yarn-error.log
+dist
+.idea
